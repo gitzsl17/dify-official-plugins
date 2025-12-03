@@ -1,7 +1,7 @@
 version: 0.0.1
 type: plugin
-author: langgenius
-name: tencent_cloud_es
+author: tencent_cloud_es
+name: aisearch_plugin
 label:
   en_US: Tencent Cloud ES
   ja_JP: Tencent Cloud ES
